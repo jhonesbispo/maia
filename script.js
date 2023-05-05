@@ -20,9 +20,8 @@ if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
         btn.style.transition = "all 0.3s ease";
         });
   }
-
 function tanks() {
-alert("Que legal!!! me manda uma mensagem no whatapp porque eu não consegui linkar a tua resposta com meu whatsapp kkkkkk :)")
+alert("Que legal!!! me manda uma mensagem no whatsapp porque eu não consegui linkar a tua resposta com meu whatsapp kkkkkk :)")
 }  
 
 function not() {
